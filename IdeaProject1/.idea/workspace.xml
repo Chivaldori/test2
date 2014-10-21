@@ -67,7 +67,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.036916394" vertical-offset="0" max-vertical-offset="921">
+            <state line="6" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.110749185" vertical-offset="0" max-vertical-offset="921">
               <folding />
             </state>
           </provider>
@@ -390,15 +390,15 @@
       <changelist id="e29836fe-bf01-48f4-8d70-7301e99b8dae" name="Default" comment="" />
       <created>1413917637084</created>
       <updated>1413917637084</updated>
-      <workItem from="1413917641742" duration="1295000" />
+      <workItem from="1413917641742" duration="1526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1295000" />
+    <option name="totallyTimeSpent" value="1526000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -447,7 +447,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.036916394" vertical-offset="0" max-vertical-offset="921">
+        <state line="6" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.110749185" vertical-offset="0" max-vertical-offset="921">
           <folding />
         </state>
       </provider>
